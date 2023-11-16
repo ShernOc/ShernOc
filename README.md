@@ -1,5 +1,5 @@
-- 👋 Hello my name is Sherlyne Ochieng residing in NAIROBI, KENYA. 
-Am interested in Computer tricks, and mainly want to work on WEB DEVELOPMENTS,
+👋 Hello my name is Sherlyne Ochieng residing in Nairobi, Kenya. 
+Am currently interested in Computer tricks, and mainly want to work on WEB DEVELOPMENTS,
 Went on a Hiatus, due to Mental Health issues AKA ' DEPRESSION' BUT AM BACK STRONG
 Am currently learning JAVA, HTML AND CSS,
 Seriously, we can collaborate on anything, open to learning new tricks. 
