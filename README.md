@@ -11,7 +11,7 @@ Databases: PostgreSQL, FLASK
 Tools: Git, GitHub, Docker (CI/CD with GitHub Actions)
 
 Experience:
-- Open for Work/Internship 
+Open for Work/Internship 
 
 Achievements:
 
