@@ -4,7 +4,7 @@ Name: Sherlyne Ochieng
 
 Location: Nairobi, Kenya
 
-Languages. Programming: Python, JavaScript, REACT.JS, SQL   
+Programming Languages: Python, JavaScript, REACT.JS, SQL   
 
 Languages.Web: HTML, CSS
 
